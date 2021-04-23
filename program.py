@@ -13,4 +13,4 @@ def read_write():
         pyautogui.typewrite(['DOWN'])
 
 
-readwrite()
+read_write()
